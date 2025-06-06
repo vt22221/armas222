@@ -1,0 +1,34 @@
+<meta>
+    <info author="ForgeX Team" name="ForgeX Complete System" version="2.0"/>
+    <script src="client/main.lua" type="client"/>
+    <script src="client/ui.lua" type="client"/>
+    <script src="client/ui_extras.lua" type="client"/>
+    <script src="server/main.lua" type="server"/>
+    <script src="server/db.lua" type="server"/>
+    <script src="server/missions.lua" type="server"/>
+    <script src="server/achievements.lua" type="server"/>
+    <script src="server/battlepass.lua" type="server"/>
+    <script src="server/contracts.lua" type="server"/>
+    <script src="server/collections.lua" type="server"/>
+    <script src="server/marketplace.lua" type="server"/>
+    <script src="server/lottery.lua" type="server"/>
+    <script src="server/adminlog.lua" type="server"/>
+    <script src="server/backup.lua" type="server"/>
+    <file src="data/shop.json"/>
+    <file src="data/skins.json"/>
+    <file src="data/lootboxes.json"/>
+    <file src="data/upgrades.json"/>
+    <file src="data/battlepass.json"/>
+    <file src="data/contracts.json"/>
+    <file src="data/collections.json"/>
+    <file src="client/images/ak47.svg"/>
+    <file src="client/images/lootbox.svg"/>
+    <file src="client/images/gold.svg"/>
+        <!-- AK-47 sem skin (padrão) -->
+    <file src="client/skins/ak47.txd" />
+    <file src="client/skins/ak47.dff" />
+
+    <!-- AK-47 skin gold -->
+    <file src="client/skins/ak47_gold.txd" />
+    <file src="client/skins/ak47_gold.dff" />
+</meta>

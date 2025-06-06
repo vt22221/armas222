@@ -1,0 +1,25 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "xp": 0,
+      "reward_free": "lootbox",
+      "reward_premium": "AK-47|Redline"
+    },
+    {
+      "level": 2,
+      "xp": 100,
+      "reward_free": "5000$",
+      "reward_premium": "M4A1|Asiimov"
+    },
+    {
+      "level": 3,
+      "xp": 250,
+      "reward_free": "skin_case",
+      "reward_premium": "AWP|Dragon Lore"
+    }
+    // Adicione mais níveis conforme desejar
+  ],
+  "max_level": 50,
+  "premium_price": 10000
+}

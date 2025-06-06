@@ -1,0 +1,15 @@
+# ACL - ForgeX
+
+1. Crie o grupo ForgexAdmin:
+<group name="ForgexAdmin">
+    <acl name="forgex.admin"/>
+</group>
+
+2. Dê permissão:
+<acl name="forgex.admin">
+    <right name="function.forgex.admin" access="true"/>
+</acl>
+
+3. Adicione os players no grupo ForgexAdmin.
+
+4. Só quem tem permissão pode usar comandos/admin do ForgeX.
